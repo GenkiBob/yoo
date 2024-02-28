@@ -6,9 +6,9 @@ hero:
   text: SD-WAN 对等专线 — 加速网络连接
   tagline: 免费试用两天 · 全设备支持 · 承诺不满意可随时退款！
   actions:
-    - theme: brand
-      text: 软件下载
-      link: /down
+    # - theme: brand
+    #   text: 软件下载
+    #   link: /down
     - theme: alt
       text: 登 录
       link: /check/checkDomain
