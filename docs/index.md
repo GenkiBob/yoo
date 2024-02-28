@@ -20,7 +20,7 @@ features:
     # link: /check/support
     # linkText: 联系客服
   - title: 3 获取退款
-    details: 仅需向客服提供 小白云账号，无需任何理由即可获取退款.
+    details: 仅需向客服提供柠檬账号，无需任何理由即可获取退款.
   - title: 账号杂货铺
     details: 出售 GPT 等平台账号.（仅推荐渠道
     link: http://cloud.idid88.com/
