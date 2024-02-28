@@ -5,7 +5,7 @@
   // Crisp.configure('0de87b57-f520-4955-99fd-f9557fc7adc6');
 
   //关闭自动加载
-  Crisp.configure('0de87b57-f520-4955-99fd-f9557fc7adc6', {
+  Crisp.configure('', {
     autoload: false
   });
   export default {
