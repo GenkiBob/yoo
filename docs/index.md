@@ -11,7 +11,7 @@ hero:
     #   link: /down
     - theme: alt
       text: 登 录
-      link: /check/checkDomain
+      link: "https://qtir4u.coocs.lol/#/"
 features:
   - title: 1 如何使用
     details: 下载 - 安装 - 注册 - '连接' ，无需登录网站，软件内可直接内购套餐.
