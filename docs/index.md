@@ -11,7 +11,7 @@ hero:
     #   link: /down
     - theme: alt
       text: 登 录
-      link: 'https://qtir4u.coocs.lol'
+      link: 'https://154.23.241.39:9002'
       target: '_self'
       rel: nofollow
       
