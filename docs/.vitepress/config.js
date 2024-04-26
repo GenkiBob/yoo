@@ -10,7 +10,7 @@ export default {
     // ['link', { rel: 'icon', href: '/icon.png' }],
     [
       'script',
-      { async: '', src: 'https://38.55.97.185/ack.js', 'data-ackee-server': 'https://38.55.97.185', 'data-ackee-domain-id': '916444b6-28c4-43f3-8f7a-479d388e9b6f', 'data-ackee-opts': '{ "detailed": true }' }
+      { async: '', src: 'https://38.55.97.185/ack.js', 'data-ackee-server': 'https://38.55.97.185', 'data-ackee-domain-id': '327467c9-f043-466b-9730-dcbcb25c2e56', 'data-ackee-opts': '{ "detailed": true }' }
     ]
   ],
   themeConfig: {
