@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.CzspK9gY.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"check/support.md","filePath":"check/support.md"}'),c={name:"check/support.md"};function o(a,s,p,n,_,d){return r(),t("div")}const f=e(c,[["render",o]]);export{m as __pageData,f as default};
