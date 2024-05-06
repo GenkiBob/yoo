@@ -1,1 +1,0 @@
-import{_ as e,c,o as t}from"./chunks/framework.CzspK9gY.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"check/checkDomain.md","filePath":"check/checkDomain.md"}'),a={name:"check/checkDomain.md"};function o(n,r,s,i,m,h){return t(),c("div")}const d=e(a,[["render",o]]);export{_ as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{aw as e,q as t,p as r}from"./chunks/framework.Cl_981jP.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"check/support.md","filePath":"check/support.md"}'),a={name:"check/support.md"};function c(o,p,s,n,d,i){return r(),t("div")}const f=e(a,[["render",c]]);export{m as __pageData,f as default};
