@@ -16,24 +16,26 @@ export default {
   themeConfig: {
     siteTitle: 'Lemon Cloud · 柠檬云',
     nav: [
-      {
-        text: '软件下载',
-        items: [
-          { text: 'Mac 苹果电脑', link: '/mac' },
-          { text: 'Windows 电脑', link: '/windows' },
-          { text: 'IOS 苹果手机（平板）', link: '/ios' },
-          { text: '安卓|鸿蒙 手机（平板）', link: '/android' },
-          { text: '第三方通用软件', link: 'https://wiki.tyro.wiki' },
-        ]
-      },
-      {
-        text: 'Todesk 远程',
-        items: [
-          { text: 'Todesk 官网下载', link: 'https://www.todesk.com/download.html' },
-          { text: 'Windows 免安装版', link: 'https://dl.todesk.com/windows/ToDesk_Lite.exe' },
-        ]
-      },
+      // {
+      //   text: '软件下载',
+      //   items: [
+      //     { text: 'Mac 苹果电脑', link: '/mac' },
+      //     { text: 'Windows 电脑', link: '/windows' },
+      //     { text: 'IOS 苹果手机（平板）', link: '/ios' },
+      //     { text: '安卓|鸿蒙 手机（平板）', link: '/android' },
+      //     { text: '第三方通用软件', link: 'https://wiki.tyro.wiki' },
+      //   ]
+      // },
+      // {
+      //   text: 'Todesk 远程',
+      //   items: [
+      //     { text: 'Todesk 官网下载', link: 'https://www.todesk.com/download.html' },
+      //     { text: 'Windows 免安装版', link: 'https://dl.todesk.com/windows/ToDesk_Lite.exe' },
+      //   ]
+      // },
+      { text: '推广大使计划2.0', link: 'https://n.tyro.wiki' },
       { text: '账号杂货铺', link: 'https://cloud.idid88.com/' },
+      { text: '用户中心', link: 'http://154.23.241.39:9002/' },
     ],
     sidebar: [
       {
