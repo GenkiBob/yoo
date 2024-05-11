@@ -33,7 +33,7 @@ features:
   - title: Windows 下载安装
     details: PC 使用教程
     linkText: 点击查看
-    link: /android
+    link: /windows
   # - title: 账号杂货铺
   #   details: 出售 GPT 等平台账号.（仅推荐渠道
   #   link: http://cloud.idid88.com/
